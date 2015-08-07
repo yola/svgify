@@ -1,0 +1,21 @@
+{
+  "name": "svgify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "svgify.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yola/svgify.git"
+  },
+  "license": "MIT",
+  "author": "Yola Engineering <engineers@yola.com>",
+  "bugs": {
+    "url": "https://github.com/yola/svgify/issues"
+  },
+  "homepage": "https://github.com/yola/svgify",
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {}
+}
