@@ -1,8 +1,8 @@
 {
-  "name": "svgify",
-  "version": "0.0.1",
+  "name": "vectorify",
+  "version": "0.0.2",
   "description": "",
-  "main": "svgify.js",
+  "main": "vectorify.js",
   "scripts": {},
   "repository": {
     "type": "git",
